@@ -1,0 +1,3 @@
+8dc3e9443035032a863c627c3c0a243e6156c882e5c71458633322129e26947b  downloads/v1.0.0/Neo-TTS-1.0.0-Windows-x64.zip
+d3455bd784d6719372701bc95b1a244eb4ce9517bff1e680d86dac0effa43041  downloads/v1.0.0/Neo-TTS-1.0.0-Linux-x86_64.AppImage
+862dc0c511dda85864edae2d8599dee99ee20c2ec3c3c510cde796d268862738  downloads/v1.0.0/Neo-TTS-1.0.0-Android-ARM-beta.apk

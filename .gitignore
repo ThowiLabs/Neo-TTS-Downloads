@@ -1,0 +1,7 @@
+# No publicar modelos ni credenciales.
+*.neo
+*.onnx
+*.pem
+*.key
+.env
+temp/
